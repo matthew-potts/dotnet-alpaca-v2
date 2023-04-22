@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/matthewpotts/Projects/dotnet-alpaca-v2/QQQReader/QQQReader.csproj": {}
+  },
+  "projects": {
+    "/Users/matthewpotts/Projects/dotnet-alpaca-v2/QQQReader/QQQReader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/matthewpotts/Projects/dotnet-alpaca-v2/QQQReader/QQQReader.csproj",
+        "projectName": "QQQReader",
+        "projectPath": "/Users/matthewpotts/Projects/dotnet-alpaca-v2/QQQReader/QQQReader.csproj",
+        "packagesPath": "/Users/matthewpotts/.nuget/packages/",
+        "outputPath": "/Users/matthewpotts/Projects/dotnet-alpaca-v2/QQQReader/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/matthewpotts/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/dotnet-alpaca-config.csproj": {
+                "projectPath": "/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/dotnet-alpaca-config.csproj"
+              },
+              "/Users/matthewpotts/Projects/dotnet-alpaca/database/database.csproj": {
+                "projectPath": "/Users/matthewpotts/Projects/dotnet-alpaca/database/database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Alpaca.Markets": {
+              "target": "Package",
+              "version": "[6.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/dotnet-alpaca-config.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/dotnet-alpaca-config.csproj",
+        "projectName": "dotnet-alpaca-config",
+        "projectPath": "/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/dotnet-alpaca-config.csproj",
+        "packagesPath": "/Users/matthewpotts/.nuget/packages/",
+        "outputPath": "/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/matthewpotts/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Alpaca.Markets": {
+              "target": "Package",
+              "version": "[6.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/matthewpotts/Projects/dotnet-alpaca/database/database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/matthewpotts/Projects/dotnet-alpaca/database/database.csproj",
+        "projectName": "database",
+        "projectPath": "/Users/matthewpotts/Projects/dotnet-alpaca/database/database.csproj",
+        "packagesPath": "/Users/matthewpotts/.nuget/packages/",
+        "outputPath": "/Users/matthewpotts/Projects/dotnet-alpaca/database/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/matthewpotts/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/dotnet-alpaca-config.csproj": {
+                "projectPath": "/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/dotnet-alpaca-config.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Alpaca.Markets": {
+              "target": "Package",
+              "version": "[6.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

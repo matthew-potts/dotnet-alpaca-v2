@@ -1,0 +1,69 @@
+﻿<Properties StartupConfiguration="{D07086B0-32D8-4292-A52F-1E0C311A7821}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/matthewpotts/Projects/dotnet-alpaca-v2/QQQReader/Program.cs" relfile="QQQReader/Program.cs" line="35" column="1" />
+    <Breakpoint file="/Users/matthewpotts/Projects/dotnet-alpaca-v2/dotnet-alpaca-data/CollectHistoricalBars.cs" relfile="dotnet-alpaca-data/CollectHistoricalBars.cs" line="41" column="1" />
+    <Breakpoint file="/Users/matthewpotts/Projects/dotnet-alpaca-v2/dotnet-alpaca-data/CollectHistoricalBars.cs" relfile="dotnet-alpaca-data/CollectHistoricalBars.cs" line="25" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.dotnet-alpaca-data PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.dotnet-alpaca-trade FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.QQQReader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotnet-alpaca-data/CollectHistoricalBars.cs">
+    <Files>
+      <File FileName="../dotnet-alpaca/Configuration/AlpacaAPIBase.cs" Line="25" Column="1" />
+      <File FileName="dotnet-alpaca-data/Program.cs" Line="13" Column="1" />
+      <File FileName="../dotnet-alpaca/Configuration/appSettings.json" Line="14" Column="79" />
+      <File FileName="../dotnet-alpaca/Configuration/DatabaseConfiguration.cs" Line="7" Column="16" />
+      <File FileName="../dotnet-alpaca/Configuration/DatabaseConnection.cs" Line="19" Column="1" />
+      <File FileName="../dotnet-alpaca/Configuration/Configuration.cs" Line="17" Column="1" />
+      <File FileName="QQQReader/Program.cs" Line="37" Column="21" />
+      <File FileName="../dotnet-alpaca/database/bin/Debug/net6.0/DatabaseInsert.cs" Line="67" Column="30" />
+      <File FileName="../dotnet-alpaca/dotnet-alpaca-data/bin/Debug/net6.0/DatabaseInsert.cs" Line="54" Column="1" />
+      <File FileName="QQQReader/QQQReaderConfig.cs" Line="1" Column="1" />
+      <File FileName="QQQReader/QQQReader.cs" Line="16" Column="16" />
+      <File FileName="QQQReader/QQQReaderSetting.cs" Line="1" Column="1" />
+      <File FileName="dotnet-alpaca-data/DataClient.cs" Line="36" Column="1" />
+      <File FileName="../dotnet-alpaca/database/DatabaseInsert.cs" Line="1" Column="1" />
+      <File FileName="../dotnet-alpaca/database/DatabaseReader.cs" Line="1" Column="1" />
+      <File FileName="../dotnet-alpaca/Configuration/AlpacaApiConfig.cs" Line="1" Column="1" />
+      <File FileName="../dotnet-alpaca/Configuration/AlpacaPaperTradingConfiguration.cs" Line="1" Column="1" />
+      <File FileName="../dotnet-alpaca/Configuration/DatabaseConnectionBase.cs" Line="22" Column="1" />
+      <File FileName="dotnet-alpaca-data/CollectTickers.cs" Line="47" Column="5" />
+      <File FileName="dotnet-alpaca-data/DatabaseBarInsert.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnet-alpaca-v2" expanded="True">
+            <Node name="database" expanded="True" />
+            <Node name="dotnet-alpaca-config" expanded="True" />
+            <Node name="dotnet-alpaca-data" expanded="True">
+              <Node name="CollectHistoricalBars.cs" selected="True" />
+            </Node>
+            <Node name="QQQReader" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>configfile</Value>
+          <Value>path</Value>
+          <Value>exeAssembly</Value>
+          <Value>configFileLoc</Value>
+          <Value>this._api.ClientKey</Value>
+          <Value>bars</Value>
+          <Value>this._api.SecretKey</Value>
+          <Value>_pool.CurrentCount</Value>
+          <Value>_barList</Value>
+          <Value>_barList[2].Items["Open"]</Value>
+          <Value>_barList[2].Items.First().Close</Value>
+          <Value>_barList[2].First()</Value>
+          <Value>_barList[2].AsEnumerable().GetType()</Value>
+          <Value>_barList[2][2]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,5 @@
+/Users/matthewpotts/Projects/dotnet-alpaca-v2/dotnet-alpaca-trade/obj/Debug/net6.0/dotnet-alpaca-trade.csproj.AssemblyReference.cache
+/Users/matthewpotts/Projects/dotnet-alpaca-v2/dotnet-alpaca-trade/obj/Debug/net6.0/dotnet-alpaca-trade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewpotts/Projects/dotnet-alpaca-v2/dotnet-alpaca-trade/obj/Debug/net6.0/dotnet-alpaca-trade.AssemblyInfoInputs.cache
+/Users/matthewpotts/Projects/dotnet-alpaca-v2/dotnet-alpaca-trade/obj/Debug/net6.0/dotnet-alpaca-trade.AssemblyInfo.cs
+/Users/matthewpotts/Projects/dotnet-alpaca-v2/dotnet-alpaca-trade/obj/Debug/net6.0/dotnet-alpaca-trade.csproj.CoreCompileInputs.cache

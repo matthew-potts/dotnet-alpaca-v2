@@ -1,0 +1,15 @@
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/dotnet-alpaca-config.csproj.AssemblyReference.cache
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/dotnet-alpaca-config.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/dotnet-alpaca-config.AssemblyInfoInputs.cache
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/dotnet-alpaca-config.AssemblyInfo.cs
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/dotnet-alpaca-config.csproj.CoreCompileInputs.cache
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/bin/Debug/net6.0/dotnet-alpaca-config.deps.json
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/bin/Debug/net6.0/dotnet-alpaca-config.dll
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/bin/Debug/net6.0/dotnet-alpaca-config.pdb
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/dotnet-alpaca-config.csproj.CopyComplete
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/dotnet-alpaca-config.dll
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/refint/dotnet-alpaca-config.dll
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/dotnet-alpaca-config.pdb
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/ref/dotnet-alpaca-config.dll

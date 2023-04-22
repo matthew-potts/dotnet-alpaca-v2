@@ -1,0 +1,15 @@
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/bin/Debug/net6.0/app.config
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/bin/Debug/net6.0/Configure.ps1
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/bin/Debug/net6.0/Configuration.dll.config
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/bin/Debug/net6.0/Configuration.deps.json
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/bin/Debug/net6.0/Configuration.dll
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/bin/Debug/net6.0/Configuration.pdb
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/Configuration.csproj.AssemblyReference.cache
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/Configuration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/Configuration.AssemblyInfoInputs.cache
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/Configuration.AssemblyInfo.cs
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/Configuration.csproj.CoreCompileInputs.cache
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/Configuration.dll
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/refint/Configuration.dll
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/Configuration.pdb
+/Users/matthewpotts/Projects/dotnet-alpaca/Configuration/obj/Debug/net6.0/ref/Configuration.dll
